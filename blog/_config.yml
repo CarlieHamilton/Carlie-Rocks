@@ -23,8 +23,9 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
-#   About Me: "aboutme"
+  About: "aboutme"
   100 Days of Code: "100days"
+  Presentations: "presentations"
     # - Goals: "100days"
     # - Days 1 - 14: "100days"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -43,7 +44,7 @@ avatar: "/img/carlie.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#3d84a8"
+navbar-col: "#364f6b"
 navbar-text-col: "#f5f5f5"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
