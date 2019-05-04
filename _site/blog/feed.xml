@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Day 16: Flask and Jekyll</title>
+        <description>
+          
+          Worked On Flask Microblog lessons 4 &amp;amp; 5 SQLAlchemy Jekyll Installation on my local computer Progress So, I think I’m going to try to turn this blog into a Jekyll blog. See how that goes… Oh, I’m writing this entry in vim! Never would have guessed I’d be doing this...
+        </description>
+        <pubDate>Thu, 02 May 2019 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/blog/developer/2019/05/02/jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/developer/2019/05/02/jekyll.html</guid>
+      </item>
+    
+  </channel>
+</rss>
