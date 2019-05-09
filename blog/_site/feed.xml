@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlie Hamilton</title>
+    <description>Personal website</description>
+    <link>http://carlie.rocks</link>
+    <atom:link href="http://carlie.rocks/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Day 20: Linux Installed</title>
+        <description>
+          
+          100 Days of Code Worked On Linux is now installed on my machine. Windows is gone! So far I am enjoying the experience and a fresh start, but it is a bit of a pain in the arse trying to get all the things reinstalled. My biggest annoyance - and...
+        </description>
+        <pubDate>Thu, 09 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/day-20-installed-linux/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/day-20-installed-linux/</guid>
+      </item>
+    
+      <item>
+        <title>Day 19: QtPy5 GUI for my Music App</title>
+        <description>
+          
+          Worked On My Music App - creating a GUI with QtPy5 Progress Before I started the 100 Days of Code - and before I started the course I am doing - I was learning/practicing using APIs and Python with some scripts that did various things with spotify. My idea was...
+        </description>
+        <pubDate>Mon, 06 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/day-19-qtpy5-gui-for-my-music-app/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/day-19-qtpy5-gui-for-my-music-app/</guid>
+      </item>
+    
+      <item>
+        <title>Day 18: Blog Deployment</title>
+        <description>
+          
+          Worked On This blog! I uploaded the Jekyll version Got not one but two solutions to daily challenge 19! Progress Today I finished converting all my previous blog posts to Jekyll, and uploaded it live live live! It is not my final solution for a blog. I either want to...
+        </description>
+        <pubDate>Sat, 04 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/jekyll/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Day 17: Speech</title>
+        <description>
+          
+          Worked On Worked on this website a little bit, and then did my first speech! I did a speech on Vim basics. My proposal was that people should start using vim with the extension in VS Code (or whatever text editor/IDE they use). That way you have a lower barrier...
+        </description>
+        <pubDate>Fri, 03 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/speech/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/speech/</guid>
+      </item>
+    
+      <item>
+        <title>Day 16: Flask and Jekyll</title>
+        <description>
+          
+          Worked On Flask Microblog lessons 4 &amp;amp; 5 SQLAlchemy Jekyll Installation on my local computer Progress So, I think I’m going to try to turn this blog into a Jekyll blog. See how that goes… Oh, I’m writing this entry in vim! Never would have guessed I’d be doing this...
+        </description>
+        <pubDate>Thu, 02 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/jekyll/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Day 15: Starting a Microblog</title>
+        <description>
+          
+          Worked On Creating a Microblog with the Flask Mega Tutorial - completed lesson 3 Progress OK, so on Monday and Tuesday I had assessment at school, so technically I was doing some coding stuff. But honestly I’d rather forget all that. So, instead, today is day 15. We have started...
+        </description>
+        <pubDate>Wed, 01 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/flask-microblog/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/flask-microblog/</guid>
+      </item>
+    
+      <item>
+        <title>Day 14. How to Blog</title>
+        <description>
+          
+          Worked On Thinking about this website Progress I’ve been thinking a bit about this website today. I really want to make my own blogging CMS. Yes, I know there are lots of options out there. I have used many. But I am looking forward to the challenge of making my...
+        </description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/flask/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/flask/</guid>
+      </item>
+    
+      <item>
+        <title>Day 13: Slowly Recovering</title>
+        <description>
+          
+          Worked On Completed Ruby Challenges - completed 16 - 18, and also refactored 14 &amp;amp; 15 Progress Still so burnt out from the assignment, I feel like I can’t do anything exciting, even though I’d really like to work on my music app. Instead, late at night, I managed to...
+        </description>
+        <pubDate>Sat, 27 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/recovering/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/recovering/</guid>
+      </item>
+    
+      <item>
+        <title>Day 11 &amp; 12: Working on Assignment</title>
+        <description>
+          
+          Worked On
+
+
+  Purr Seasons Cat Hotel - class assignment, ruby terminal app.
+
+
+
+
+Progress
+
+Working on my assignment. On a tight deadline. Now I don’t want to even look at the code to see all the things we (my teammate and I) could have done better. It is done.
+
+        </description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/assignment/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/assignment/</guid>
+      </item>
+    
+      <item>
+        <title>Day 10: Updating Progress</title>
+        <description>
+          
+          Worked On Terminal Medication Tracker Progress The days have passed and I have only really missed one day where I have done 0 coding, but I have missed recording here. It’s too much trouble to go back, so I’m just going forward and calling today day 10. I do have...
+        </description>
+        <pubDate>Mon, 22 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/updating/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/updating/</guid>
+      </item>
+    
+      <item>
+        <title>Day 9: TDD</title>
+        <description>
+          
+          Worked On Daily Challenge - Hackerman Redo Challenge - FizzBuzz Progress Class today (what I heard - I was home with a sick kid) was about Test Driven Development, and it made a lot of sense. I already do this but in a really informal way. And, of course, up...
+        </description>
+        <pubDate>Tue, 16 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/tdd/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/tdd/</guid>
+      </item>
+    
+      <item>
+        <title>Day 8: Sssssssnake!</title>
+        <description>
+          
+          Worked On Snake game! Progress Today I made a minimum viable snake game! There are a lot of features to add, but the game works! The thing I had the most trouble with was just getting the syntax right for the randomly spawning food - I kept on leaving a...
+        </description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/snake/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/snake/</guid>
+      </item>
+    
+      <item>
+        <title>Day 7: Started Snake</title>
+        <description>
+          
+          Worked On Daily Coding Challenge - Fibonacci Snake Game Progress The kids are sick. I hope I don’t get sick… Plus I’ve been feeling a bit burnt out and deflated by my attempt at using classes to create my cafe app. I needed something fun. But what? I was having...
+        </description>
+        <pubDate>Sun, 14 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/snake/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/snake/</guid>
+      </item>
+    
+      <item>
+        <title>Day 6: Just some exercises</title>
+        <description>
+          
+          Worked On Done with my cafe Challenge 12 - Count Words Challenge 9 - Vowels Progress I said I was done with my cafe, but then I made some small changes. First, I just made it so that it doesn’t matter how many items you add to the cafe, you...
+        </description>
+        <pubDate>Sat, 13 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/exercises/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/exercises/</guid>
+      </item>
+    
+      <item>
+        <title>Day 5: Backing Away Slowly from the Cafe</title>
+        <description>
+          
+          Worked On Cafe Ordering Script Used a fellow classmate’s code to update my name generator, and then did my first pull request! Daily Challenge - FizzBuzz Progress That cafe script. My problem is trying to access information which is a (and I’ll probably use the wrong terminology here) a class...
+        </description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/cafe/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/cafe/</guid>
+      </item>
+    
+      <item>
+        <title>Day 4: Classes Conquer Me?</title>
+        <description>
+          
+          Worked On My cafe challenge using classes Challenge 10 of my courses daily challenges Progress I tried to make my vision for my Cafe app work, using multiple classes in the one project, but I dunno... I dunno... My vision was to have two separate classes (items and order), but...
+        </description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/classes/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
+      </item>
+    
+      <item>
+        <title>Day 3: Class Confusion in Ruby</title>
+        <description>
+          
+          Worked On Learning more about classes - inheritance and modules Listening to motivational talk by Josh Wulf Trying to apply my &quot;knowledge&quot; on classes in a cafe challenge. Progress In class today I learnt about inheritance and modules with classes. I get understand the concept, but I definitely need more...
+        </description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/classes/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
+      </item>
+    
+      <item>
+        <title>Day 2: Classes in Ruby</title>
+        <description>
+          
+          Worked On Completed Daily Challenge - counting vowels. But I know there is a better solution. Learning about classes in Ruby Redoing my bank app from scratch - this time using classes. Progress Classes and OOP is something that I have touched on before, but I definitely need more practice...
+        </description>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/classes/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
+      </item>
+    
+      <item>
+        <title>Day 1: Methods/Functions</title>
+        <description>
+          
+          Worked On Wrote a random name generator for picking volunteers for doing things in my class Ping Pong - a skill all coders must master, it seems Trying to learn as much as I can about classes and OOP Progress Class was not challenging today for me. We went over...
+        </description>
+        <pubDate>Mon, 08 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/methods/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/methods/</guid>
+      </item>
+    
+      <item>
+        <title>Day 0: Pre-launch - Getting Ready for the Challenge</title>
+        <description>
+          
+          Worked On This website Ruby Daily Challenge - Counting Letters Working on Vim extension in VS Code Progress I am all about the memory keeping, and I wanted a fun place to experiment with my web stuff since I have let a lot of past domain names expire. So, I've...
+        </description>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/day0/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/day0/</guid>
+      </item>
+    
+  </channel>
+</rss>
