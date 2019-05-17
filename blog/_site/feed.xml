@@ -7,6 +7,28 @@
     <atom:link href="http://carlie.rocks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Day 24 - 27: Working on my Portfolio</title>
+        <description>
+          
+          100 Days of Code Worked On My portfolio! Progress I’ve been coding my portfolio. Oh, my portfolio. I am frustrated because my expectations are at 100 - I really want to have something professional out there with my name on it - but I don’t know if I have the...
+        </description>
+        <pubDate>Fri, 17 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/portfolio/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/portfolio/</guid>
+      </item>
+    
+      <item>
+        <title>Day 23: SASS</title>
+        <description>
+          
+          100 Days of Code Worked On Learn sass, mixins, variables, etc. Very cool. I like it a lot, as far as liking css goes. I… I know CSS, I can do the CSS, and hell, I enjoy creating my own websites. But I much prefer the challenge of coding. Looking...
+        </description>
+        <pubDate>Mon, 13 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/day-23-sass/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/day-23-sass/</guid>
+      </item>
+    
+      <item>
         <title>Day 22: Sorting Algorithms</title>
         <description>
           
@@ -211,28 +233,6 @@ Working on my assignment. On a tight deadline. Now I don’t want to even look a
           Worked On My cafe challenge using classes Challenge 10 of my courses daily challenges Progress I tried to make my vision for my Cafe app work, using multiple classes in the one project, but I dunno... I dunno... My vision was to have two separate classes (items and order), but...
         </description>
         <pubDate>Thu, 11 Apr 2019 00:00:00 +1000</pubDate>
-        <link>http://carlie.rocks/developer/2019/classes/</link>
-        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
-      </item>
-    
-      <item>
-        <title>Day 3: Class Confusion in Ruby</title>
-        <description>
-          
-          Worked On Learning more about classes - inheritance and modules Listening to motivational talk by Josh Wulf Trying to apply my &quot;knowledge&quot; on classes in a cafe challenge. Progress In class today I learnt about inheritance and modules with classes. I get understand the concept, but I definitely need more...
-        </description>
-        <pubDate>Wed, 10 Apr 2019 00:00:00 +1000</pubDate>
-        <link>http://carlie.rocks/developer/2019/classes/</link>
-        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
-      </item>
-    
-      <item>
-        <title>Day 2: Classes in Ruby</title>
-        <description>
-          
-          Worked On Completed Daily Challenge - counting vowels. But I know there is a better solution. Learning about classes in Ruby Redoing my bank app from scratch - this time using classes. Progress Classes and OOP is something that I have touched on before, but I definitely need more practice...
-        </description>
-        <pubDate>Tue, 09 Apr 2019 00:00:00 +1000</pubDate>
         <link>http://carlie.rocks/developer/2019/classes/</link>
         <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
       </item>
