@@ -7,6 +7,17 @@
     <atom:link href="http://carlie.rocks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Day 28 - Starting PostgreSQL!</title>
+        <description>
+          
+          100 Days of Code Worked On Learning PostgreSQL on the command line Progress Today with school I started learning PostgreSQL. We learnt a bit of PGAdmin 4, but… I don’t like it 😆 It requires you to use the mouse too much, which I find irritating, so I’ve been spending...
+        </description>
+        <pubDate>Wed, 29 May 2019 00:00:00 +1000</pubDate>
+        <link>http://carlie.rocks/developer/2019/day-28-psql/</link>
+        <guid isPermaLink="true">http://carlie.rocks/developer/2019/day-28-psql/</guid>
+      </item>
+    
+      <item>
         <title>Day 24 - 27: Working on my Portfolio</title>
         <description>
           
@@ -224,17 +235,6 @@ Working on my assignment. On a tight deadline. Now I don’t want to even look a
         <pubDate>Fri, 12 Apr 2019 00:00:00 +1000</pubDate>
         <link>http://carlie.rocks/developer/2019/cafe/</link>
         <guid isPermaLink="true">http://carlie.rocks/developer/2019/cafe/</guid>
-      </item>
-    
-      <item>
-        <title>Day 4: Classes Conquer Me?</title>
-        <description>
-          
-          Worked On My cafe challenge using classes Challenge 10 of my courses daily challenges Progress I tried to make my vision for my Cafe app work, using multiple classes in the one project, but I dunno... I dunno... My vision was to have two separate classes (items and order), but...
-        </description>
-        <pubDate>Thu, 11 Apr 2019 00:00:00 +1000</pubDate>
-        <link>http://carlie.rocks/developer/2019/classes/</link>
-        <guid isPermaLink="true">http://carlie.rocks/developer/2019/classes/</guid>
       </item>
     
   </channel>
