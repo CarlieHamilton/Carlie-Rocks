@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Carlie Rocks!`,
-    description: `A fun, personal website by Carlie Hamilton`,
+    title: `Carlie Rocks`,
+    description: `A fun, personal website of Carlie Hamilton`,
     author: `Carlie Hamilton`,
   },
   plugins: [
