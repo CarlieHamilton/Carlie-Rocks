@@ -20,6 +20,8 @@ interface BlogPost {
             path: string,
             date: string,
             author: string
+            categories: string
+            tags: string
         }
         excerpt: string
 }
