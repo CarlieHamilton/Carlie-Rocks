@@ -22,6 +22,7 @@ interface BlogPost {
             author: string
             categories: string
             tags: string
+            image: string
         }
         excerpt: string
 }

@@ -6,8 +6,9 @@ import Layout from '../components/layout';
 
 export default function Template({data}: Blog) {
     const post = data.markdownRemark
-    const categories = post.frontmatter.categories
+    // const categories = post.frontmatter.categories
 
+    console.log(post)
     return(
         <Layout>
             <div>
