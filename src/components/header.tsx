@@ -8,8 +8,8 @@ interface Props {
 const Header = ({ siteTitle }: Props) => (
   <header
     style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
+      background: `#000080`,
+      marginBottom: `0`,
     }}
   >
     <div

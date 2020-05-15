@@ -9,6 +9,7 @@ import React, { ReactNode } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import Menu from "./menu"
 import "./layout.css"
 
 interface Props {
@@ -29,6 +30,7 @@ const Layout = ({ children }: Props) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
+      <Menu />
       <div
         style={{
           margin: `0 auto`,
@@ -38,9 +40,7 @@ const Layout = ({ children }: Props) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © {new Date().getFullYear()} Carlie Hamilton
         </footer>
       </div>
     </>
