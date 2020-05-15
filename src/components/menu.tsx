@@ -24,6 +24,10 @@ const Menu = () => (
             color: `white`,
             textDecoration: `none`,
           }}>Blog</Link></li>
+            <li><Link to="/projects"  style={{
+                        color: `white`,
+                        textDecoration: `none`,
+          }}>Projects</Link></li>
         </ul>
     </div>
     </>
