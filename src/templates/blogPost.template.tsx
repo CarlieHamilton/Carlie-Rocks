@@ -6,7 +6,8 @@ import Layout from '../components/layout';
 
 export default function Template({data}: Blog) {
     const post = data.markdownRemark
-    // const categories = post.frontmatter.categories
+    const categories = post.frontmatter.categories
+    const splitCategories = categories.split(" ");
 
     console.log(post)
     return(
@@ -16,20 +17,16 @@ export default function Template({data}: Blog) {
                 <hr />
 
                 <h1>{post.frontmatter.title}</h1>
-                <h4>Posted by {post.frontmatter.author} on {post.frontmatter.date}</h4>
-                {/* {categories && <p>hello</p>} */}
+                <h4>Posted on {post.frontmatter.date}</h4>
+                <p>{categories && splitCategories.map(category => (
+                    category
+                ))}</p>
 
                 <div dangerouslySetInnerHTML={{__html: post.html}} />
             </div>
         </Layout>
     )
 }
-
-// const categories = ({data}: Blog) {
-//     const categories = data.markdownRemark.frontmatter.categories.split(" ");
-
-
-// }
 
 export const postQuery = graphql`
     query BlogPostByPath($path: String!) {
